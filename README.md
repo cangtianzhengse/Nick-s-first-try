@@ -1,2 +1,2 @@
-# Nick-s-first-try
+# Nick-first-try
 A first trail to use Github
